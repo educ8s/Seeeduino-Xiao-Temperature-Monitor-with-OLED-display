@@ -97,9 +97,9 @@ void setup() {
   sensors.begin();
   display.clearDisplay();
   display.drawBitmap(0,0,bitmap_ui, 128,64, SSD1306_WHITE);
-  display.setTextSize(2);             // Normal 1:1 pixel scale
-  display.setTextColor(SSD1306_WHITE);        // Draw white text
-  display.setCursor(80,30);             // Start at top-left corner
+  display.setTextSize(2);            
+  display.setTextColor(SSD1306_WHITE);        
+  display.setCursor(80,30);    
   display.println((char)247 );
   display.setCursor(95,30); 
   display.println("C");

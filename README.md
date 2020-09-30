@@ -23,5 +23,5 @@ This is a simple temperature monitor using the Arduino Xiao board. It uses an SS
 
 # Credits & Thanks
 
-  - Kudos to [cbm80amiga](https://github.com/cbm80amiga) for being the creator of the original ST7789 fast library without which this project would not exist.
+  - Kudos to [Adafruit Industries](https://github.com/adafruit) for being the creator of the display libraries without which this project would not exist.
 

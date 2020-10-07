@@ -2,8 +2,10 @@
 This is a simple temperature monitor using the Arduino Xiao board. It uses an SSD1306 OLED display and a DS18B20 temperature sensor
 
 <p align="center">
-  <img src="Arduino_Xiao_Review.jpg" alt="Xiao Temperature Monitor" width="640">
+  <img src="Arduino_Xiao_Review.jpg" alt="Xiao Temperature Monitor" width="800">
 </p>
+
+[Watch the video on YouTube](https://www.youtube.com/watch?v=6PhkWQM3U6Q)
 
 
 # Parts Needed

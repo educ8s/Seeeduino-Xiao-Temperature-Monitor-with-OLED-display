@@ -1,5 +1,5 @@
 # Seeeduino-Xiao(Arduino Compatible)-Temperature-Monitor-with-OLED-display
-This is a simple temperature monitor using the Seeeduino Xiao, Arduino Compatible board. It uses an SSD1306 OLED display and a DS18B20 temperature sensor
+This is a simple temperature monitor using the Seeeduino Xiao, an Arduino Compatible board. It uses an SSD1306 OLED display and a DS18B20 temperature sensor.
 
 <p align="center">
   <img src="Arduino_Xiao_Review.jpg" alt="Xiao Temperature Monitor" width="800">

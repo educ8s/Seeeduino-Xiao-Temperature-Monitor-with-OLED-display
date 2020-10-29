@@ -5,7 +5,7 @@ This is a simple temperature monitor using the Seeeduino Xiao, an Arduino Compat
   <img src="Arduino_Xiao_Review.jpg" alt="Xiao Temperature Monitor" width="800">
 </p>
 
-🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=6PhkWQM3U6Q)
+🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=-nECx4DOE84)
 
 
 # Parts Needed
